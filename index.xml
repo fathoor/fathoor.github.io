@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muhammad Fathurrahman</title>
+    <title>bebekpakeb</title>
     <link>https://fathoor.github.io/</link>
-    <description>Recent content on Muhammad Fathurrahman</description>
+    <description>Recent content on bebekpakeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://fathoor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 17 May 2022 08:00:17 +0700</lastBuildDate><atom:link href="https://fathoor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Test</title>
+      <link>https://fathoor.github.io/posts/markdown-test/</link>
+      <pubDate>Tue, 17 May 2022 08:00:17 +0700</pubDate>
+      
+      <guid>https://fathoor.github.io/posts/markdown-test/</guid>
+      <description>Testing every basic Markdown syntax.
+ Headings
+Heading Heading Heading Heading Heading Heading Alternate Heading Alternate Heading  Formattings
+This is a bold text. This is also bold.
+This is an italic text. this is also italic.
+This is a strikethrough text.
+This is a bold and italic text.
+ Blockquotes
+ This is how blockquote looks like,
+with multiple paragraphs,
+ with nested blockquote,
+ and with Markdown formatting.   Code Blocks</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://fathoor.github.io/about/</link>
+      <pubDate>Tue, 17 May 2022 08:00:00 +0700</pubDate>
+      
+      <guid>https://fathoor.github.io/about/</guid>
+      <description>Hey, my name is Fathoor, currently an Information Systems&amp;rsquo; student at Institut Teknologi Sepuluh Nopember and is completing bachelor&amp;rsquo;s degree in Computer Science.
+I usually goes by the name bebekpakeb, since most people do recognize my nickname better rather than my actual name. Why bebekpakeb? Haha, it&amp;rsquo;s actually a bit funny that the fact that I chose that name was because bebek, which is &amp;lsquo;duck&amp;rsquo; in Bahasa, is one of many other food that I prefer not to eat, yes I prefer not for a specific reason.</description>
+    </item>
+    
   </channel>
 </rss>

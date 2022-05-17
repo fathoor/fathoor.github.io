@@ -1,0 +1,121 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on bebekpakeb</title>
+        <link>https://fathoor.github.io/posts/</link>
+        <description>Recent content in Posts on bebekpakeb</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Tue, 17 May 2022 08:00:17 +0700</lastBuildDate>
+        <atom:link href="https://fathoor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Markdown Test</title>
+            <link>https://fathoor.github.io/posts/markdown-test/</link>
+            <pubDate>Tue, 17 May 2022 08:00:17 +0700</pubDate>
+            
+            <guid>https://fathoor.github.io/posts/markdown-test/</guid>
+            <description>Testing every basic Markdown syntax.
+ Headings
+Heading Heading Heading Heading Heading Heading Alternate Heading Alternate Heading  Formattings
+This is a bold text. This is also bold.
+This is an italic text. this is also italic.
+This is a strikethrough text.
+This is a bold and italic text.
+ Blockquotes
+ This is how blockquote looks like,
+with multiple paragraphs,
+ with nested blockquote,
+ and with Markdown formatting.   Code Blocks</description>
+            <content type="html"><![CDATA[<p>Testing every basic <code>Markdown</code> syntax.</p>
+<hr>
+<p><code>Headings</code></p>
+<h1 id="heading">Heading</h1>
+<h2 id="heading-1">Heading</h2>
+<h3 id="heading-2">Heading</h3>
+<h4 id="heading-3">Heading</h4>
+<h5 id="heading-4">Heading</h5>
+<h6 id="heading-5">Heading</h6>
+<h1 id="alternate-heading">Alternate Heading</h1>
+<h2 id="alternate-heading-1">Alternate Heading</h2>
+<hr>
+<p><code>Formattings</code></p>
+<p>This is a <strong>bold</strong> text. This is also <strong>bold</strong>.<br>
+This is an <em>italic</em> text. this is also <em>italic</em>.<br>
+This is a <del>strikethrough</del> text.<br>
+This is a <em><strong>bold</strong></em> and <em><strong>italic</strong></em> text.</p>
+<hr>
+<p><code>Blockquotes</code></p>
+<blockquote>
+<p>This is how blockquote looks like,</p>
+<p>with multiple paragraphs,</p>
+<blockquote>
+<p>with nested blockquote,</p>
+</blockquote>
+<h4 id="and-with-markdown-formatting">and with Markdown formatting.</h4>
+</blockquote>
+<hr>
+<p><code>Code Blocks</code></p>
+<p>This is a code block</p>
+<pre tabindex="0"><code>public static void main(String[] args){
+  System.out.println(&#34;This is a java code block in markdown.&#34;);
+}
+</code></pre><p>This is a code fence</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> __main__:
+</span></span><span style="display:flex;"><span>  print(<span style="color:#e6db74">&#34;This is a python code fence in markdown.&#34;</span>)
+</span></span></code></pre></div><hr>
+<p><code>Tables</code></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Header 1</th>
+<th style="text-align:center">Header 2</th>
+<th style="text-align:right">Header 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Left-aligned</td>
+<td style="text-align:center">Centered</td>
+<td style="text-align:right">Right-aligned</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><code>Lists</code></p>
+<p>This is an ordered list:</p>
+<ol>
+<li>Basic syntax
+<ol>
+<li>Heading</li>
+<li>Formatting</li>
+</ol>
+</li>
+<li>Extended syntax</li>
+</ol>
+<p>This is an unordered list:</p>
+<ul>
+<li>Basic syntax
+<ul>
+<li>Heading</li>
+<li>Formatting</li>
+</ul>
+</li>
+<li>Extended syntax</li>
+</ul>
+<dl>
+<dt>This is a definition list</dt>
+<dd>This defines the term</dd>
+</dl>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Basic syntax</li>
+<li><input disabled="" type="checkbox"> Extended syntax</li>
+</ul>
+<hr>
+<p><code>Links</code></p>
+<p>This is my personal <strong><a href="https://fathoor.github.io/">website</a></strong>, access my personal website from <a href="https://fathoor.github.io">https://fathoor.github.io</a>.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
